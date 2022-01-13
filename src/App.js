@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I was changed
+          From Github to EBS
         </p>
         <a
           className="App-link"
